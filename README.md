@@ -22,9 +22,9 @@ I focus on:
 
 ## 🧰 Tech Stack
 
-**Frontend:** React, Next.js, HTML, CSS, JavaScript  
+**Frontend:** React, Next.js, HTML, CSS, JavaScript, TypeScript, Tailwind  
 **Backend:** Node.js, Python, Express  
-**Database:** MongoDB, PostgreSQL  
+**Database:** MongoDB, PostgreSQL, MySQL  
 **Tools:** Git, Docker, REST APIs
 
 ---
