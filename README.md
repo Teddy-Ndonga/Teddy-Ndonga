@@ -36,3 +36,11 @@ I focus on:
 - 🔌 API Services — RESTful backend systems
 
 ---
+
+## 📫 Reach Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/teddy-ndonga" target="blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" height="40" width="40"/>
+  </a>
+</p>
